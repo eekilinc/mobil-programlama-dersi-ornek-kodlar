@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn1"> Buton 1</string>
+    <string name="btn2"> Buton 2</string>
+    <string name="btn3"> Buton 3</string>
+    <string name="btn4"> Buton 4</string>
+    <string name="btn5"> Buton 5</string>
+    <string name="btntopla">Topla</string>
+</resources>
